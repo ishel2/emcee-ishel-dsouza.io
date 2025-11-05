@@ -1,2 +1,36 @@
-# emcee-ishel-dsouza.io
-emcee portfolio
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Emcee Ishel Dsouza</title>
+  <style>
+    body { font-family: sans-serif; margin: 0; padding: 0; background: #fdf6f0; color: #333; }
+    header { background: #d62828; color: white; padding: 2rem; text-align: center; }
+    section { padding: 2rem; }
+    footer { background: #333; color: white; text-align: center; padding: 1rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Emcee Ishel Dsouza</h1>
+    <p>Your Celebration, My Voice</p>
+  </header>
+  <section>
+    <h2>About Me</h2>
+    <p>Multilingual emcee fluent in English, Konkani, and Kannada. I bring energy, elegance, and entertainment to every event.</p>
+  </section>
+  <section>
+    <h2>Showreel</h2>
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+  </section>
+  <section>
+    <h2>Contact</h2>
+    <p>📞 +91-XXXXXXXXXX</p>
+    <p>📧 ishel@email.com</p>
+  </section>
+  <footer>
+    <p>© 2025 Emcee Ishel Dsouza</p>
+  </footer>
+</body>
+</html>
+
